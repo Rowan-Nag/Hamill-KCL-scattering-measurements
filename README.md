@@ -1,4 +1,4 @@
-# Hamill-KCL-scattering-measurements
+# Hamill-KCl-scattering-measurements
 
 Light scattering measurements using Exoplanet Cloud Ensemble Scattering System (ExCESS).
   - [Files](#files)
