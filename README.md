@@ -11,8 +11,10 @@ Light scattering measurements using Exoplanet Cloud Ensemble Scattering System (
 - Parameters
   - **Angle** - Scattering angle
   - **Phase function** - Measured Intensity at specified angles
+    - *Normalized*: Normalized so that intensity is 1 at 30°
+    - *SEM*: Standard error of the mean
   - **DOLP** - Degree of Linear Polarization
-  - ...
+    - *SEM*: Standard error of the mean
 
 **KCl_SizeData_Final**
 - particle sizes for the three different size distributions as measured by the optical particle sizer (OPS)
@@ -22,8 +24,10 @@ Light scattering measurements using Exoplanet Cloud Ensemble Scattering System (
 - Parameters
   - **Angle** - Scattering angle
   - **Phase function** - Measured Intensity at specified angles
+    - *Normalized*: Normalized so that intensity is 1 at 30°
+    - *SEM*: Standard error of the mean
   - **DOLP** - Degree of Linear Polarization
-  - ...
+    - *SEM*: Standard error of the mean
 ## Usage
 
 All data is in CSV format. <br>
