@@ -6,7 +6,7 @@ Light scattering measurements using Exoplanet Cloud Ensemble Scattering System (
   - [License](#license)
 ## Files
 
-**KCl_ScatteringData_Final**
+### KCl_ScatteringData_Final
 - KCL Scattering data using particles of varying size. (using 532nm wavelength)
 - Parameters
   - **Angle** - Scattering angle
@@ -16,10 +16,10 @@ Light scattering measurements using Exoplanet Cloud Ensemble Scattering System (
   - **DOLP** - Degree of Linear Polarization
     - *SEM*: Standard error of the mean
 
-**KCl_SizeData_Final**
+### KCl_SizeData_Final
 - particle sizes for the three different size distributions as measured by the optical particle sizer (OPS)
 
-**PSL_ScatteringData_Final**
+### PSL_ScatteringData_Final
 - PSL (polystyrene latex) spheres scattering data, used for verifying accuracy of ExCESS Measurements
 - Parameters
   - **Angle** - Scattering angle
